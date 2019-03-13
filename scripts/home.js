@@ -82,6 +82,7 @@ function addLoadEvent(func) {
     }
 }
 //addLoadEvent(prepareGallery);
+/* 在目标元素后插入元素 */
 /*参考insetBefore(),但DOM本身没有insertAfter方法，根据已有属性可编写实现*/
 function insertAfter(newElement,targetElement) {
     var parent = targetElement.parentNode;

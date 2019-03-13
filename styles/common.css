@@ -1,0 +1,156 @@
+/* 页面布局 */
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    margin:1em auto;
+    background-image: url("../images/background.gif");
+    background-attachment: fixed;
+    background-position: top left;
+    background-repeat: repeat-x;
+    max-width: 80em;
+}
+#header{
+    background-image: url("../images/guitarist.gif");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    border-width: .1em;
+    border-style: solid;
+    border-bottom-width:0;
+}
+#navigation{
+    background-image: url("../images/navbar.gif");
+    background-position: bottom left;
+    background-repeat: repeat-x;
+    border-width: .1em;
+    border-style: solid;
+    border-bottom-width: 0;
+    border-top-width: 0;
+    padding-left: 10%;
+}
+#navigation ul{
+    width: 100%;
+    overflow: hidden;
+    border-left-width: .1em;
+    border-left-style:solid;
+}
+#navigation li{
+    display: inline;
+}
+#navigation li a{
+    display: block;
+    float:left;
+    padding: .5em 2em;
+    border-right: .1em solid;
+}
+#content{
+    border-width:.1em;
+    border-style: solid;
+    border-top-width: 0;
+    padding: 2em 10%;
+    line-height: 1.8em;
+}
+
+/* 页面颜色 */
+body{
+    color:#fb5;
+    background-color: #334;
+}
+a:link{
+    color:#445;
+    background-color: #eb6;
+}
+a:visited{
+    color: #345;
+    background-color: #eb6;
+}
+a:hover{
+    color: #667;
+    background-color: #fb5;
+}
+a:active{
+    color:#778;
+    background-color: #ec8;
+}
+#header{
+    color:#ec8;
+    background-color: #334;
+    border-color: #667;
+}
+#navigation{
+    color:#455;
+    background-color: #789;
+    border-color:#667;
+}
+#content{
+    color:#223;
+    background-color: #edc;
+    border-color: #667;
+}
+#navigation ul{
+    border-color:#99a;
+}
+#navigation a:link,
+#navigation a:visited{
+    color:#eef;
+    background-color: transparent;
+    border-color: #99a;
+}
+#navigation a:hover{
+    color:#445;
+    background-color: #eb6;
+}
+#navigation a:active{
+    color: #667;
+    background-color: #ec8;
+}
+
+/* 字型 */
+body{
+    font-size: 76%;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+body *{
+    font-size: 1em;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+}
+#navigation{
+    font-family: "Lucida Grande","Helvetica","Arial",sans-serif;
+}
+#navigation a{
+    text-decoration: none;
+    font-weight: bold;
+}
+#content{
+    line-height: 1.8em;
+}
+#content p{
+    margin:1em 0;
+}
+h1{
+    font-family: "Georgia","Times New Roman",sans-serif;
+    font:2.4em normal;
+}
+h2{
+    font-family: "Georgia","Times New Roman",sans-serif;
+    font:1.8em normal;
+    margin-top: 1em;
+}
+h3{
+    font-family: "Georgia","Times New Roman",sans-serif;
+    font:1.4em normal;
+    margin-top:1em;
+}
+
+/* 样式用于标记当前位置 */
+#navigation a.here:link,
+#navigation a.here:visited,
+#navigation a.here:hover,
+#navigation a.here:active{
+    color:#eef;
+    background-color: #799;
+}
