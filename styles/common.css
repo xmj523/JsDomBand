@@ -52,6 +52,19 @@ body{
     line-height: 1.8em;
 }
 
+#about #header{
+    background-image: url("../images/lineup.gif");
+}
+#photos #header{
+    background-image: url("../images/basshead.gif");
+}
+#live #header{
+    background-image: url("../images/bassist.gif");
+}
+#contact #header{
+    background-image: url("../images/drummer.gif");
+}
+
 /* 页面颜色 */
 body{
     color:#fb5;

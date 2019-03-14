@@ -1,0 +1,10 @@
+#imageGallery li{
+    display: inline;
+}
+#imageGallery a{
+    background-color: transparent;
+}
+#placeholer{
+    /*border: 0.1em solid #ba9;//使用此条时会在图片底部出现空白条*/
+    outline: 0.1em solid #ba9;
+}

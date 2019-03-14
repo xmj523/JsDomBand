@@ -47,6 +47,9 @@ function highLightPage() {
         var linkUrl = links[i].getAttribute('href');
         if(currentUrl.indexOf(linkUrl) != -1){
             addClass(links[i],'here');
+            /* 将当前导航链接的text赋值给body的id,可以为不同页面设置不同的专用样式 */
+            var linkText = links[i].lastChild.nodeValue.toLowerCase();
+            document.body.setAttribute('id',linkText);
             break;
         }
     }
