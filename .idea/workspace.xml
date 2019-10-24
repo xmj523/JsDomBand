@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="563104e8-9915-4508-a8cb-199ddb3f437c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/about.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/contact.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/live.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/photos.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/styles/contact.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/styles/live.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/styles/photos.css" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.txt" afterPath="$PROJECT_DIR$/ReadMe.txt" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="$PROJECT_DIR$/images/bassist.jpg" afterPath="$PROJECT_DIR$/images/photos/bassist.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/concert.jpg" afterPath="$PROJECT_DIR$/images/photos/concert.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/crowd.jpg" afterPath="$PROJECT_DIR$/images/photos/crowd.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/guitarist.jpg" afterPath="$PROJECT_DIR$/images/photos/guitarist.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/thumbnail_bassist.jpg" afterPath="$PROJECT_DIR$/images/photos/thumbnail_bassist.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/thumbnail_concert.jpg" afterPath="$PROJECT_DIR$/images/photos/thumbnail_concert.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/thumbnail_crowd.jpg" afterPath="$PROJECT_DIR$/images/photos/thumbnail_crowd.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/thumbnail_guitarist.jpg" afterPath="$PROJECT_DIR$/images/photos/thumbnail_guitarist.jpg" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/live.html" afterPath="$PROJECT_DIR$/live.html" />
-      <change beforePath="$PROJECT_DIR$/photos.html" afterPath="$PROJECT_DIR$/photos.html" />
-      <change beforePath="$PROJECT_DIR$/scripts/global.js" afterPath="$PROJECT_DIR$/scripts/global.js" />
-      <change beforePath="$PROJECT_DIR$/scripts/home.js" afterPath="$PROJECT_DIR$/scripts/home.js" />
-      <change beforePath="$PROJECT_DIR$/styles/common.css" afterPath="$PROJECT_DIR$/styles/common.css" />
-      <change beforePath="$PROJECT_DIR$/styles/home.css" afterPath="$PROJECT_DIR$/styles/home.css" />
-    </list>
+    <list default="true" id="563104e8-9915-4508-a8cb-199ddb3f437c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -144,9 +117,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="369" />
-    <option name="y" value="59" />
+    <option name="y" value="67" />
     <option name="width" value="892" />
-    <option name="height" value="659" />
+    <option name="height" value="651" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -222,15 +195,15 @@
       <option name="presentableId" value="Default" />
       <updated>1552464225066</updated>
       <workItem from="1552464226295" duration="7717000" />
-      <workItem from="1552525775675" duration="21262000" />
+      <workItem from="1552525775675" duration="21356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28979000" />
+    <option name="totallyTimeSpent" value="29073000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="369" y="59" width="892" height="659" extended-state="0" />
+    <frame x="369" y="67" width="892" height="651" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017123288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
